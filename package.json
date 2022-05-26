@@ -1,0 +1,17 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "web scrapping api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sameer shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.1.1"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^5.4.6"
+  }
+}
